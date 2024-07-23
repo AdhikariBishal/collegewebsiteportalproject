@@ -1,0 +1,674 @@
+/*topdiv start*/
+#dashmaindiv
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(143, 189, 174);
+}
+#dashtopdiv
+{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+#dashtop1div
+{
+    float: left;
+    height: 140px;
+    width: 200px;
+    background-color: white;
+    border: 1px;
+    border-color: black;
+    border-style: double;
+}
+#dashtop2div
+{
+    float: left;
+    height: 150px;
+    width: 1255px;
+    background-color:white;
+
+}    
+#dashtop21div
+{
+    
+    height: 75px;
+    width: 1255px;
+    
+
+}    
+#dashtop211div
+{
+    
+    height: 45px;
+    width: 1100px;
+    
+
+}    
+#dashtop212div
+{
+    
+    height: 30px;
+    width: 1100px;
+   
+
+}    
+#dashtop213div
+{
+    
+    height: 60px;
+    width: 60px;
+    background-color: rgb(46, 24, 103);
+    margin-left: 1150px;
+    margin-top: -70px;
+    border-radius: 100%;
+
+}    
+#dashtop22div
+{
+    
+    height: 50px;
+    width: 1255px;
+    background-color:rgb(25, 25, 79);
+    margin-top: 10px;
+
+}    
+#dashtop22div a
+{
+    float: left;
+    height: 50px;
+    width: 130px;
+    margin-left: 20px;
+    text-decoration: none;
+    display: block;
+
+}    
+#dashtop22div a:hover
+{
+    float: left;
+    height: 50px;
+    width: 130px;
+    margin-left: 20px;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(213, 170, 29);
+
+}    
+.c1
+{
+    position: relative; 
+    font-size: 14px;  
+    color: white; 
+    top: 15px; 
+    left: 20px;
+}
+.dash1
+{
+    position: relative; 
+    font-size: 22px; 
+    font-weight: bold; 
+    color: rgb(25, 25, 79); 
+    top: 10px; 
+    left: 20px;
+}
+.dash2
+{
+    position: relative; 
+    font-size: 16px; 
+    font-weight: bold; 
+    color: rgb(213, 170, 29); 
+    top: 5px; 
+    left: 20px;
+}
+.dash3
+{
+    position: relative; 
+    font-size:30px; 
+    font-weight: bold; 
+    color: white; 
+    top: 10px; 
+    left: 20px;
+}
+.mid
+{
+position:relative;
+height:20px;
+width:100%;
+background-color: rgb(174, 183, 183);
+
+}
+/*topdiv end*/
+
+/*profilediv start*/
+.middle
+{
+position:relative;
+height:auto;
+width:100%;
+background-color: rgb(174, 183, 183);
+
+}
+
+.mid1
+{
+float: left;
+height:500px;
+width:500px;
+margin-left:100px;
+}
+.mid12
+{
+float:left;
+height:30px;
+width:230px;
+margin-left: 5px;
+margin-top: 8px;
+text-color: blue;
+}
+.mid13
+{
+float:left;
+height:30px;
+width:20px;
+margin-left: 5px;
+margin-top: 8px;
+}
+
+.mid2
+{
+float: left;
+height:500px;
+width:500px;
+margin-left:70px;
+}
+.mid21
+{
+float: inline-start;
+height:190px;
+width:500px;
+}
+.mid23
+{
+float: right;
+height:150px;
+width:150px;
+margin-right: 30px;
+margin-top: 20px;;
+
+}
+.mid22
+{
+float: inline-start;
+height:310px;
+width:500px;
+
+
+}
+.mid3
+{
+    float: left;
+    height:500px;
+    width: 250px;
+    background-color:rgb(25, 25, 79);
+    
+}
+.mid31
+{
+    float: inline-start;
+    height: 50px;
+    width: 220px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.mid31 a
+{
+    float: inline-start;
+    height: 50px;
+    width: 220px;
+    text-decoration: none;
+    display: block;
+    
+}
+.mid31 a:hover
+{
+    float: inline-start;
+    height: 50px;
+    width: 220px;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(213, 170, 29);
+    color: black;
+}
+.line
+{
+    float: inline-start;
+    height: 2px;
+    width: 220px;
+    background-color: white;
+    margin-left: 15px;
+}
+.p5
+{
+position:relative;
+font-size:16px;
+top: -15px;
+font-weight: bold;
+color:#000000;
+}
+.p6
+{
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    left: 25px;
+    top: 10px;
+    color: white;
+}
+
+/*profilediv end*/
+
+/*examformdiv start*/
+.exfm
+{
+    float: left;
+    height: auto;
+    width: 1100px;
+    margin-left: 50px;
+    border: 1px;
+    border-color: black;
+    border-style: double;
+}
+.extop
+{
+    position: relative;
+    height: 50px;
+    width: 1100px;
+    background-color:rgb(25, 25, 79);
+}
+.extopl
+{
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    top: 15px;
+    left: 450px;
+}
+.exdetail
+{
+    position: relative;
+    height: 50px;
+    width: 1100px;
+    background-color: aliceblue;
+}
+.exdetail1
+{
+    float: left;
+    height: 50px;
+    width: 300px;
+    
+    margin-left: 50px;
+
+}
+.exl
+{
+    position: relative; 
+    font-size: 16px; 
+    color: rgb(14, 8, 8); 
+    top: 20px; 
+    
+}
+#exsubdetail
+{
+    position: relative;
+    height: auto;
+    width: 1000px;
+    background-color: rgb(214, 226, 235);
+    margin-left: 50px;
+}
+.exi
+{
+    position: relative; 
+    height: 30px; 
+    border-radius: 5px; 
+    width: 290px; 
+    top: 10px;
+}
+
+
+
+.exb
+{
+    position: relative; 
+    height: 30px; 
+    border-radius: 5px; 
+    width: 290px; 
+    top: 10px;
+    background-color:rgb(25, 25, 79);
+    color: white;
+    font-weight: bold;
+}
+
+/*examformdiv end*/
+
+/*regformdiv start*/
+
+.subdetaila
+{
+    position: relative;
+    height: auto;
+    width: 1000px;
+    background-color: aliceblue;
+    border: 1px;
+    margin-left: 50px;
+    
+}
+.subdetail1
+{
+    position: relative;
+    height: 50px;
+    width: 1000px;
+    background-color: #97acb1;
+}
+.subdetail2
+{
+    position: relative;
+    height: 50px;
+    width: 1000px;
+    background-color: #c9d4df;
+}
+
+/*regformdiv end*/
+
+/*attendence formdiv start*/
+.att
+{
+    position: relative;
+    height: auto;
+    width: 1100px;
+    background-color: #f3f7f8;
+    margin-left: 50px;
+}
+
+.att1
+{
+    position: relative;
+    height: 50px;
+    width: 1100px;
+    background-color: #f3f7f8;
+    
+}
+.att3
+{
+    position: relative;
+    height: 50px;
+    width: 1100px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+.att2
+{
+    float: left;
+    height: 30px;
+    width: 250px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.attl
+{
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    left: 10px;
+    top: 10px;
+}
+.attinput
+{
+   position: relative;
+   height: 30px;
+   width: 250px;
+   border: 2px;
+   border-radius: 5px;
+   border-color: black;
+   border-style: double;
+}
+.attb
+{
+    position: relative;
+    height: 30px;
+    width: 250px;
+    background-color:orange;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+/*attendence formdiv end*/
+
+/*fotdiv start*/
+.fot
+{
+    position:relative;
+    height:250px;
+    width:100%;
+    background-color:rgb(25, 25, 79);
+    
+}
+#imsdown1div
+{
+    
+    height: 150px;
+    width: 1100px ;
+    margin-left: 170px;
+    border: 5px;
+    border-color: rgb(228, 228, 237);
+    border-style: double;
+    border-radius: 20px;
+}
+#imsdown11div
+{
+    height: 75px;
+    width: 1100px;
+    
+}
+#imsdown12div
+{
+    height: 75px;
+    width: 1100px;
+    
+}
+#imsdown121div
+{
+    float: left;
+    height: 50px;
+    width: 450px;
+    
+    margin-left: 50px;
+    margin-top: 10px;
+    border: 1px;
+    border-color: rgb(227, 227, 239);
+    border-style: double;
+    
+}
+
+.fot1
+{
+    position:relative;
+    height:50px;
+    width:100%;
+    background-color:rgb(25, 25, 79);
+    margin-top: 41px;
+}
+.fo1
+{
+    position: relative; 
+    font-size: 20px; 
+    font-weight: bold; 
+    color:white; 
+    top: 15px; 
+    left: 550px;
+}
+/*fotdiv end*/
+/*marksheet start*/
+
+.gradesheet
+{
+    
+        float: left;
+        height: auto;
+        width: 1100px;
+        margin-left: 50px;
+        border: 1px;
+        border-color: black;
+        border-style: double;
+    
+}
+
+.topgarde
+{
+    position: relative;
+    height: auto;
+    width: 1100px;
+    background-color: rgb(214, 226, 235);
+    margin-left: 50px;
+}
+.markmid
+{
+    position: relative;
+    height: 10px;
+    width: 1100px;
+    background-color: rgb(214, 226, 235);
+    
+}
+.topgarde1
+{
+    position: relative;
+    height: 50px;
+    width: 1100px;
+    background-color:rgb(25, 25, 79);
+    
+}
+
+.m1
+{
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    left: 500px;
+    top: 20px;
+    color: white;
+
+}
+.topdetail
+{
+    position: relative;
+    height: 270px;
+    width: 1000px;
+    left: 50px;
+}
+#markattend
+{
+    position: relative;
+    height: 120px;
+    width: 1000px;
+    left: 50px;
+}
+.pf1
+{
+    position: relative;
+    height: 40px;
+    width: 250px;
+
+}
+.marklebel
+{
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    left: 10px;
+}
+.markinput
+{
+    position: relative;
+    height: 35px;
+    width: 250px;
+    border-color: black;
+    border-radius: 5px;
+    
+}
+#fillmark
+{
+ position: relative;
+ height: auto;
+ width: 1000px;
+ margin-left: 50px;
+}
+.calmark
+{
+ position: relative;
+ height: 50px;
+ width: 1000px;
+ margin-left: 50px;
+}
+.markexb
+{
+    position: relative; 
+    height: 30px; 
+    border-radius: 5px; 
+    width: 290px; 
+    top: 10px;
+    background-color:rgb(25, 25, 79);
+    color: white;
+    font-weight: bold;
+}
+
+/*marksheet end*/
+
+/*result start*/
+
+.resu
+{
+    position: relative;
+    height: auto;
+    width: 1100px;
+    background-color: #f3f7f8;
+    margin-left: 50px;
+}
+.resu1
+{
+    position: relative;
+    height: 50px;
+    width: 1000px;
+    background-color: #f3f7f8;
+    margin-left: 50px;
+    
+
+}
+.reslabel
+{
+    position: relative;
+    font-size: 16px;
+    color: #2f3030;
+    font-weight: bold;
+    top: 15px;
+    
+}
+.resdet
+{
+    float: left;
+    height: 50px;
+    width: 300px;
+    margin-left: 30px;
+   
+}
+
+
+/*result end*/

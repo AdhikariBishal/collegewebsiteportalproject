@@ -1,0 +1,126 @@
+#enrolldiv
+{
+    height: auto;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+#enrolltopdiv
+{
+    height: auto  ;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+}
+#enrolltop1div
+{
+    height: 150px;
+    width: 1300px;
+}    
+#enrolltop2div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    
+}
+#enrolltop3div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    background-color: rgb(167, 17, 64);
+}
+#detaildiv
+{
+    height: auto;
+    width: 1200px;
+    
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#detail1div
+{
+    height: 50px;
+    width: 1200px;
+    background-color: rgb(94, 136, 146);
+}
+#detail2div
+{
+    height: 50px;
+    width: 1200px;
+    
+}
+#detail21div
+{
+    float: left;
+    height: 50px;
+    width: 400px;
+    
+}
+
+#imsdown
+{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+
+#imsdowndiv
+{
+    
+    height: 200px;
+    width: 1300px ;
+    background-color: white;
+    margin-left: 100px;
+}
+
+#imsdown1div
+{
+    
+    height: 150px;
+    width: 1100px ;
+    margin-left: 75px;
+    border: 5px;
+    border-color: rgb(26, 26, 94);
+    border-style: double;
+    border-radius: 20px;
+}
+#imsdown11div
+{
+    height: 75px;
+    width: 1100px;
+    
+}
+#imsdown12div
+{
+    height: 75px;
+    width: 1100px;
+    
+}
+#imsdown121div
+{
+    float: left;
+    height: 50px;
+    width: 450px;
+    
+    margin-left: 50px;
+    margin-top: 10px;
+    border: 1px;
+    border-color: rgb(7, 7, 8);
+    border-style: double;
+    
+}
+    
+    
+#imsfotterdiv
+{
+    
+    height: 50px;
+    width: 1300px ;
+    background-color: rgb(240, 238, 238);
+    margin-left: 100px;
+}

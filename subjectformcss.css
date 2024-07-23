@@ -1,0 +1,164 @@
+.topdiv
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+.top1div
+{
+    height: 150px;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+}    
+.top2div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    
+}
+.top3div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    background-color: rgb(167, 17, 64);
+}
+.contentdiv
+{
+    height: auto;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+.content1div
+{
+    height: auto;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+}
+.content2div
+{
+    position: relative;
+    height:20px;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    
+}
+#detaildiv
+{
+    position: relative;
+    height: auto;
+    width: 1200px;
+    margin-left: 50px;
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    
+    
+    
+}
+
+#detail1div
+{
+    height: 50px;
+    width: 1200px;
+    background-color: rgb(94, 136, 146);
+}
+#detail2div
+{
+    height: 50px;
+    width: 1200px;
+    
+}
+#detail21div
+{
+    float: left;
+    height: 50px;
+    width: 400px;
+    
+}
+.l1
+{
+    position: relative; 
+    font-size: 30px; 
+    font-weight: bold; 
+    color: white; 
+    top: 50px; 
+    left: 100px;
+}
+.fotter
+{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+.fotter1
+{
+    height: 200px;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+}
+
+    
+    
+.fotter2
+{
+    
+    height: 50px;
+    width: 1300px ;
+    background-color: rgb(240, 238, 238);
+}
+
+.sub
+{
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+
+
+#div11
+{
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 100%;
+    
+
+}
+#div12
+{
+    float: left;
+    height: 150px;
+    width: 1px;
+    background-color: rgb(16, 17, 16);
+    margin-left: 5px;
+    
+
+}
+
+.p3
+{
+    position:relative;
+    font-size:24px;
+    font-weight:bold;
+    color:#cc4413;
+    
+    
+    
+}
+
+.p4
+{
+    position:relative;
+    font-size:32px;
+    font-weight:bold;
+    color:#4233ea;
+    top: -30px;
+    
+}
+ 

@@ -1,0 +1,1116 @@
+#maindiv
+{
+    height: 1500px;
+    width: 100%;
+    background-color: white;
+
+}
+
+/*topdiv start */
+#topdiv
+{
+    height: 40px;
+    width: 100%;
+    background-color: darkslateblue;
+    text-decoration: none;
+
+
+}
+.t1div
+{
+    float: left;
+    height: 40px;
+    width: 70px;
+    background-color: darkslateblue;
+    margin-left: 10px;
+    
+}
+.t1div a
+{
+    height: 40px;
+    width: 70px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t1div a:hover
+{
+    height: 40px;
+    width: 70px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+
+.t2div
+{
+    float: left;
+    height: 40px;
+    width: 150px;
+    background-color: darkslateblue;
+    
+}
+
+.t2div a
+{
+    height: 40px;
+    width: 150px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t2div a:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+
+.t3div
+{
+    float: left;
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    
+}
+
+.t3div a
+{
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t3div a:hover
+{
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+
+.t4div
+{
+    float: left;
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    
+}
+
+.t4div a
+{
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t4div a:hover
+{
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+.t5div
+{
+    float: left;
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    
+}
+
+.t5div a
+{
+    height: 40px;
+    width: 100px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t5div a:hover
+{
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+.t6div
+{
+    float: left;
+    height: 40px;
+    width: 120px;
+    background-color: darkslateblue;
+    
+}
+
+.t6div a
+{
+    height: 40px;
+    width: 120px;
+    background-color: darkslateblue;
+    text-decoration: none;
+    display: block;
+    color: white;
+    
+}
+.t6div a:hover
+{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+    color: darkslateblue;
+    
+}
+
+.t7label
+{
+    position: relative; 
+    font-size: 12px; 
+    font-weight:bold; 
+    top: 5px; 
+    left: 20px;  
+}
+
+.t8label
+{
+    position: relative; 
+    font-size: 12px; 
+    font-weight:bold; 
+    top: 5px; 
+    left: 10px;  
+}
+
+/*topdiv close */
+
+/*div1 open */
+
+#div1
+{
+    height: 110px;
+    width: 100%;
+    
+}
+
+#div11
+{
+    float: left;
+    height: 100px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 100px;
+    border-radius: 100%;
+    
+
+}
+#div12
+{
+    float: left;
+    height: 100px;
+    width: 1px;
+    background-color: rgb(16, 17, 16);
+    margin-top: 5px;
+    margin-left: 10px;
+    
+
+}
+
+#div13
+{
+    float: left;
+    height: 110px;
+    width: 900px;
+    margin-left: 10px;
+    
+
+}
+
+#div14
+{
+    float: left;
+    height: 100px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 100%;
+
+}
+
+.p1
+{
+    position:relative;
+    font-size:24px;
+    font-weight:bold;
+    color:#791313;
+    
+}
+.p2
+{
+    position:relative;
+    font-size:14px;
+    font-weight:bold;
+    color:#0f0f0f;
+    top:-20px;
+}
+.p3
+{
+    position:relative;
+    font-size:24px;
+    font-weight:bold;
+    color:#4233ea;
+    top:-40px;
+}
+.p4
+{
+    position:relative;
+    font-size:14px;
+    font-weight:bold;
+    color:#4233ea;
+    top:-60px;
+}
+
+
+/*div1 close */
+
+
+/*div2 open */
+
+#div2
+{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(226, 83, 83);
+}
+.ul
+{
+    height: 40px;
+    width: 100px;
+    background-color: aliceblue;
+    list-style: none;
+}
+/*div2 close */
+
+/*div3 open */
+
+#div3
+{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(192, 185, 176);
+}
+#div31
+{
+    float: left;
+    height: 420px;
+    width: 1000px;
+    background-image: url(img/Div3.jpg);
+    background-size: cover;
+}
+#div311
+{
+    height: 50px;
+    width: 500px;
+    float: right;
+    margin-top: 370px;
+    background-color: black;
+    opacity: 0.8;
+    border-top-left-radius: 25px;
+}
+#div32
+{
+    float: left;
+    height: 450px;
+    width: 400px;
+    margin-left: 20px;
+
+}
+#div321
+{
+    float: inline-start;
+    height: 100px;
+    width: 400px;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: 1px;
+    border-color: rgb(57, 57, 57);
+    border-style: double;
+    
+    
+}
+.op1
+{
+    position: relative;
+    color: white;
+    font-size: 18px;
+    padding-left: 10px;
+    top: 10px;
+}
+.rec
+{
+    float: left;
+    height: 90px;
+    width: 270px;
+    background-color: yellowgreen;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.round
+{
+    float: left;
+    height: 90px;
+    width: 90px;
+    background-color: yellowgreen;
+    border-radius: 100%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+/*div3 close */
+
+/*div4 open */
+
+#div4
+{
+    height: 50px;
+    width: 100%;
+    background-color: bisque;
+}
+
+/*div4 close */
+
+/*formdiv open */
+
+#formdiv
+{
+    height: 120px;
+    width: 100%;
+    
+}
+
+
+.box1
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(199, 154, 240);
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    
+}
+.box1 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box1 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(199, 154, 240);
+    color: rgb(199, 154, 240);
+    border-radius: 20px;
+   
+}
+.box2
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(25, 178, 73);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box2 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box2 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(25, 178, 73);
+    color: rgb(25, 178, 73);
+    border-radius: 20px;
+   
+}
+.box3
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(87, 92, 240);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box3 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box3 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(87, 92, 240);
+    color: rgb(87, 92, 240);
+    border-radius: 20px;
+   
+}
+.box4
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(34, 153, 200);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box4 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box4 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(34, 153, 200);
+    color: rgb(34, 153, 200);
+    border-radius: 20px;
+   
+}
+.box5
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(211, 33, 205);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box5 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box5 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(211, 33, 205);
+    color: rgb(211, 33, 205);
+    border-radius: 20px;
+   
+}
+.box6
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(196, 196, 22);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box6 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box6 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(196, 196, 22);
+    color: rgb(196, 196, 22);
+    border-radius: 20px;
+   
+}
+.box7
+{
+    float: left;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(169, 14, 26);
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+}
+.box7 a
+{
+    text-decoration: none;
+    display: block;
+    height: 80px;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+  
+}
+.box7 a:hover
+{
+   
+    display: block;
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(169, 14, 26);
+    color: rgb(169, 14, 26);
+    border-radius: 20px;
+   
+}
+
+
+/*formdiv close */
+
+/*noticediv open */
+
+#noticediv
+{
+    height: 600px;
+    width: 100%;
+    
+}
+
+#n1div
+{
+    float: left;
+    height: 550px;
+    width: 400px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: 2px;
+    border-color: rgb(235, 232, 228);
+    border-style: double;
+    
+}    
+#n2div
+{
+    float: left;
+    height: 550px;
+    width: 600px;
+    background-color: white;
+    margin-top: 20px;
+    border: 2px;
+    border-color: rgb(235, 232, 228);
+    border-style: double;
+    box-shadow: 0px 0px   15px  rgb(205, 159, 98);
+    
+    
+}    
+#n3div
+{
+    float: left;
+    height: 550px;
+    width: 380px;
+    margin-top: 20px;
+    border: 2px;
+    border-color: rgb(235, 232, 228);
+    border-style: double;
+    
+    
+}    
+
+/*noticediv close */
+
+/* eventdiv start */
+
+#eventdiv
+{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(195, 229, 72);
+}
+
+/* eventdiv close */
+
+/* programdiv start */
+
+#programdiv
+{
+    height: 500px;
+    width: 100%;
+    background-image: url(img/fottering.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#programdiv1
+{
+    height: 500px;
+    width: 100%;
+    background-color: #1d184f;
+    opacity: 0.6;
+    
+}
+
+
+/* programdiv close */
+
+/* activitydiv start */
+
+#activitydiv
+{
+    height: 400px;
+    width: 100%;
+    
+    
+}
+#act1div
+{
+    height: 40px;
+    width: 100%;
+    
+}
+
+#act1div a
+{
+    float: left;
+    height: 40px;
+    width: 200px;
+    color: rgb(75, 75, 246);
+    text-decoration: none;
+}
+
+#act3div
+{
+    float: left;
+    height: 30px;
+    width: 5px;
+    background-color: red;
+    margin-top: 3px;
+    margin-left: 15px;
+}
+
+#act2div
+{
+    float: left;
+    height: 250px;
+    width: 400px;
+    background-color: rgb(195, 181, 208);
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px rgb(239, 69, 69);
+}
+
+
+/* activitydiv close */
+
+/* otherdiv start */
+
+#otherdiv
+{
+    height: 800px;
+    width: 100%;
+}
+#oth1div
+{
+    position: relative;
+    height: 700px;
+    width: 1200px;
+    top: 50px;
+    margin-left: 130px;
+
+}
+#oth2div
+{
+    height: 350px;
+    width: 1200px;
+    
+
+}
+#oth3div
+{
+    height: 350px;
+    width: 1200px;
+   
+}
+#oth4div
+{
+    float: left;
+    height: 350px;
+    width: 600px;
+    background-image: url(img/activity4.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#oth41div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+   
+}
+#oth41tdiv
+{
+    
+    height: 100px;
+    width: 49px;
+    background-image: url(img/traingle1.png);
+    margin-left: 252px;
+   
+}
+#oth42div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    background-color: rgb(35, 165, 197);
+}
+#oth5div
+{
+    float: left;
+    height: 350px;
+    width: 600px;
+    background-image: url(img/activity3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+#oth51div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    
+    
+
+}
+#oth51tdiv
+{
+    
+    height: 100px;
+    width: 49px;
+    background-image: url(img/triangle2.png);
+    margin-left: 252px;
+   
+}
+#oth52div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    background-color: rgb(164, 180, 20);
+    
+
+}
+
+
+#oth6div
+{
+    float: left;
+    height: 350px;
+    width: 600px;
+    background-image: url(img/activity2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+#oth61div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    background-color: rgb(148, 11, 118);
+
+    
+
+}
+#oth61tdiv
+{
+    
+    height: 100px;
+    width: 49px;
+    background-image: url(img/triangle3.png);
+    margin-left: 299px;
+   
+}
+#oth62div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    
+
+}
+#oth7div
+{
+    float: left;
+    height: 350px;
+    width: 600px;
+    background-image: url(img/activity1.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+#oth71div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    background-color: rgb(134, 10, 49);
+
+    
+
+}
+#oth71tdiv
+{
+    
+    height: 100px;
+    width: 49px;
+    background-image: url(img/triangle4.png);
+    margin-left: 299px;
+   
+}
+#oth72div
+{
+    float: left;
+    height: 350px;
+    width: 300px;
+    
+
+}
+
+/* otherdiv close */
+
+/* fotterdiv open */
+
+#fotterdiv
+{
+    height: 550px;
+    width: 100%;
+    background-color: rgb(25, 12, 83);
+    background-image: url(img/fotterimg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.f1
+{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    top: 30px;
+}
+
+.f2
+{
+    float: left;
+    height: 500px;
+    width: 650px;
+    margin-left: 25px;
+}
+.f2top
+{
+    position: relative;
+    top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(245, 245, 247);
+}
+.f2botline
+{
+    position: relative;
+    height: 1px;
+    width: 650px;
+    background-color: rgb(247, 246, 246);
+    top: 15px;
+    
+    
+}
+.f2midlink 
+{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 20px;
+}
+.f2mid1 a
+{
+    position: relative;
+    text-decoration: none;
+}
+.f2mid1
+{
+    float: left;
+    height: 450px;
+    width: 320px;
+    
+}
+.f2mid2
+{
+    float: left;
+    height: 450px;
+    width: 325px;
+    margin-left: 5px;
+}
+
+.f2mid2 a
+{
+    position: relative;
+    text-decoration: none;
+    
+}
+
+
+.f3
+{
+    float: left;
+    height: 500px;
+    width: 350px;
+    margin-left: 25px;
+}
+
+.f4
+{
+    position: relative;
+    height: 50px;
+    width: 650px;
+    top: 20px;
+}
+
+.f5
+{
+    position: relative;
+    height: 50px;
+    width: 350px;
+    top: 20px;
+}
+.f5 a
+{
+    position: relative;
+    text-decoration: none;
+    
+}
+.f5botline
+{
+    position: relative;
+    height: 1px;
+    width: 350px;
+    background-color: rgb(246, 242, 242);
+    top: 15px;
+    
+    
+}
+
+/* fotterdiv close */

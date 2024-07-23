@@ -1,0 +1,65 @@
+#enrolldiv
+{
+    height: 1100px;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+#enrolltopdiv
+{
+    height: 1100px;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+}
+#enrolltop1div
+{
+    height: 150px;
+    width: 1300px;
+}    
+#enrolltop2div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    
+}
+#enrolltop3div
+{
+    float: left;
+    height: 150px;
+    width: 650px ;
+    background-color: rgb(167, 17, 64);
+}
+#detaildiv
+{
+    height: auto;
+    width: 1200px;
+    
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#detail1div
+{
+    height: 50px;
+    width: 1200px;
+    background-color: rgb(94, 136, 146);
+}
+#detail2div
+{
+    height: 50px;
+    width: 1200px;
+    
+}
+#detail21div
+{
+    float: left;
+    height: 50px;
+    width: 400px;
+    
+}
+
+

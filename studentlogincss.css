@@ -1,0 +1,91 @@
+#studentdiv
+{
+    height: 720px;
+    width: 100%;
+    background-color: rgb(94, 136, 146);
+}
+#studenttopdiv
+{
+    height: 720px;
+    width: 1300px;
+    background-color: rgb(241, 240, 239);
+    margin-left: 100px;
+    
+}
+#studenttop1div
+{
+    
+    height: 150px;
+    width: 1300px;
+    
+    
+}
+#studenttop2div
+{
+    float: left;
+    height: 150px;
+    width: 650px;
+    
+   
+}
+#studenttop3div
+{
+    float: left;
+    height: 150px;
+    width: 650px;
+    background-color: rgb(167, 17, 64);
+    
+}
+
+#studentmid1div
+{
+    float: left;
+    height: 570px;
+    width: 650px;
+    background-color: rgb(183, 120, 37);
+    
+}
+#studentmid2div
+{
+    float: left;
+    height: 570px;
+    width: 650px;
+    background-color: rgb(251, 249, 250);
+    
+}
+
+#studentmid21div
+{
+    
+    height: 450px;
+    width: 500px;
+    
+    margin-top: 50px;
+    margin-left: 75px;
+    
+}
+#filldiv
+{
+    height: 50px;
+    width: 500px;
+    
+}
+
+#studentfotterdiv
+{
+    height: 30px;
+    width: 1300px;
+    background-color: rgb(163, 115, 68);
+    margin-left: 100px;
+    margin-top: -30px;
+    
+}
+
+.forpass
+{
+    position: relative; 
+    font-size: 16px; 
+    color: rgb(84, 136, 240); 
+    top: 20px; 
+    left: 20px;
+}
